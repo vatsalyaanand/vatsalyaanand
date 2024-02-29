@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    Hi, I'm Vatsalya Anand<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
+    Hi, I'm Vatsalya Anand  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
   </h3>  
   A Data Scientist focussing on Machine Learning and Deep Learning.<br>
 <br>
