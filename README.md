@@ -6,7 +6,10 @@
 <br>
   <h3 id="p1">Languages and Tools</h3>
   
-  <a href="https://www.python.org" target="_blank"><img alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/></a>
+  <a href="https://www.python.org" target="_blank"><img alt="Python" height ="42px" src="https://skillicons.dev/icons?i=py"></a>
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=r" alt="r" height="42px"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" height="42px"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="42px"/></a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" height="42px"/></a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" height="42px"/></a> 
   <br>
