@@ -5,6 +5,8 @@
   A Data Scientist focussing on Machine Learning and Deep Learning.<br>
 <br>
   <h3 id="p1">Languages and Tools</h3>
+
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
   <a href="https://www.python.org" target="_blank"><img alt="Python" height ="42px" src="https://skillicons.dev/icons?i=py"></a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=r" alt="r" height="42px"/></a>
