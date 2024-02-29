@@ -15,5 +15,5 @@
   <a href="https://pytorch.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" height="42px"/></a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" height="42px"/></a> 
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="centre" alt="Computador iuriCode">
   <br>
