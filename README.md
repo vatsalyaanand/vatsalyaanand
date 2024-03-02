@@ -13,7 +13,11 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" height="42px"/></a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="42px"/></a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" height="42px"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" height="42px"/></a> 
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" height="42px"/></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="42px"/></a> 
+  <a href="https://html5.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html" height="42px"/></a> 
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" height="42px"/></a> 
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="js" height="42px"/></a> 
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="centre" alt="Computador iuriCode">
   <br>
